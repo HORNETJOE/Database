@@ -58,4 +58,6 @@ below are images display the database and its diffrent functions displays.
 ![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/query.PNG)
 
 #### Testing
+below is a table which contains diffrent features that were tested and completed during testing.
+
 ![Test Plan](https://github.com/LukeShead/Databases/blob/master/Test%20plan.JPG)
