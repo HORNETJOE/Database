@@ -5,6 +5,7 @@ ERD stands for entity relanshonship diagram and is used as a flowchart to show t
 ![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/ERD.png)
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
+
 The code below was used to create the database.
 
 #### Insert
