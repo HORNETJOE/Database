@@ -91,26 +91,14 @@ Data mining is the process of discovering patterns in large data sets using diff
 
 The following tools were used in the design and creation of the database system:
 
-	-  draw.io 
-	Used to create the Entity Relationship Diagram
+* draw.io 
+Used to create the Entity Relationship Diagram
 
-	-  Microsoft Excel
-	Used to create the data dictionary and the test plan documentation
+* Microsoft Excel
+Used to create the data dictionary and the test plan documentation
 
-	-  Microsoft Access
-	Used to create the database system
+* Microsoft Access
+Used to create the database system
 
- 	-  Microsoft Word
-	Used to create the user and technical documentation
-
-#### System Summary
-
-##### What Is An Object Oriented Database?
-
-An object database is a database system in which data is represented in the form of objects similar in design to object oriented programming. Object databases are different from relational database which are table-oriented. Object-relational databases are a mix of both approaches. 
-
-Object-oriented database management systems combine database capabilities with object oriented programming language capabilities. This design allows object-oriented programmers to develop the product, store them as objects, and duplicate and edit existing objects to make new objects Because the database is connected with the programming language, the programmer can maintain a high level of consistency, in that both the OODBMS and the programming language will use the same model to represent themselves. Relational database management system projects maintain a clearer division between the database model and the application.
-
-##### What Is The System For?
-
-The system is designed to hold data on the status of different characters and spells within the game
+* Microsoft Word
+Used to create the user and technical documentation
