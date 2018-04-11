@@ -43,7 +43,9 @@ UPDATE SPELLS SET DAMAGEHEALING = 4 WHERE NAME = FIREBALL;
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-####
+#### Developing the database
+below are images display the database and its diffrent functions displays.
+
 ![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/database%20image%20heros.PNG)
 
 #### output
