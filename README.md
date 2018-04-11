@@ -61,3 +61,56 @@ below are images display the database and its diffrent functions displays.
 below is a table which contains diffrent features that were tested and completed during testing. This needs to be done to make sure that the database works when it is completed.
 
 ![Test Plan](https://github.com/LukeShead/Databases/blob/master/Test%20plan.JPG)
+
+### User and Technical Documentation
+
+#### General Information
+
+##### System Overview
+
+This database system is designed to hold information on different characters that appear in the game. It has different tables for Heroes, Enemies and other tables relating to skills that hold all of the key values relating to that character, including Name, ID, Health and Damage. These values can be updated in real time for gameplay purposes.
+
+##### The Role Of Database Systems As…
+
+Database systems can be used for a wide variety of things. The following is a list of different uses of database systems and what purpose they serve.
+
+###### Back-end Systems
+	
+A Back-End Database is a database that can be accessed by different users through a third-party application rather than by application programming stored within the database itself or by manipulation of the data.
+	
+###### E-Commerce
+
+In E-commerce, the main purpose of a database is to store information about the customer transactions, customer care, and inventory. By using a database,  programming a dynamic E-commerce website becomes easy as you only focus on the presentation and behavior of the website while all interactions are being managed by the system.
+
+###### Data Mining Applications
+
+Data mining is the process of discovering patterns in large data sets using different methods. It is an essential process where intelligent methods are applied to extract data patterns. During the process of data mining, the database(s) are searched for key information that could uncover new patterns or sequences in the data.
+
+
+##### Tools Used
+
+The following tools were used in the design and creation of the database system:
+
+	-  draw.io 
+	Used to create the Entity Relationship Diagram
+
+	-  Microsoft Excel
+	Used to create the data dictionary and the test plan documentation
+
+	-  Microsoft Access
+	Used to create the database system
+
+ 	-  Microsoft Word
+	Used to create the user and technical documentation
+
+#### System Summary
+
+##### What Is An Object Oriented Database?
+
+An object database is a database system in which data is represented in the form of objects similar in design to object oriented programming. Object databases are different from relational database which are table-oriented. Object-relational databases are a mix of both approaches. 
+
+Object-oriented database management systems combine database capabilities with object oriented programming language capabilities. This design allows object-oriented programmers to develop the product, store them as objects, and duplicate and edit existing objects to make new objects Because the database is connected with the programming language, the programmer can maintain a high level of consistency, in that both the OODBMS and the programming language will use the same model to represent themselves. Relational database management system projects maintain a clearer division between the database model and the application.
+
+##### What Is The System For?
+
+The system is designed to hold data on the status of different characters and spells within the game
