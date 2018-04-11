@@ -91,14 +91,14 @@ Data mining is the process of discovering patterns in large data sets using diff
 
 The following tools were used in the design and creation of the database system:
 
-- draw.io 
-Used to create the Entity Relationship Diagram
+	-  draw.io 
+	Used to create the Entity Relationship Diagram
 
-- Microsoft Excel
-Used to create the data dictionary and the test plan documentation
+	-  Microsoft Excel
+	Used to create the data dictionary and the test plan documentation
 
-- Microsoft Access
-Used to create the database system
+	-  Microsoft Access
+	Used to create the database system
 
-- Microsoft Word
-Used to create the user and technical documentation
+ 	-  Microsoft Word
+	Used to create the user and technical documentation
