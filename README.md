@@ -40,3 +40,8 @@ UPDATE HEROES SET DAMAGE = 12.4 WHERE NAME = BOI;
 UPDATE SPELLS SET RAGE = 4 WHERE ID = 4;
 
 UPDATE SPELLS SET DAMAGEHEALING = 4 WHERE NAME = FIREBALL;
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/ERD.png)
+![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/ERD.png)
