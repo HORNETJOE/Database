@@ -55,3 +55,5 @@ UPDATE SPELLS SET DAMAGEHEALING = 4 WHERE NAME = FIREBALL;
 #### query
 ![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/query.PNG)
 
+#### Testing
+![Test Plan](https://github.com/LukeShead/Databases/blob/master/Test%20plan.JPG)
