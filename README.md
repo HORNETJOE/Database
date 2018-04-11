@@ -43,5 +43,5 @@ UPDATE SPELLS SET DAMAGEHEALING = 4 WHERE NAME = FIREBALL;
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/ERD.png)
+![ERD flowchart]https://github.com/HORNETJOE/Database/blob/master/database%20image%20heros.PNG)
 ![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/ERD.png)
