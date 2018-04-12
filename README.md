@@ -60,7 +60,7 @@ below are images display the database and its diffrent functions displays.
 #### Testing
 below is a table which contains diffrent features that were tested and completed during testing. This needs to be done to make sure that the database works when it is completed.
 
-![Test Plan](https://github.com/LukeShead/Databases/blob/master/Test%20plan.JPG)
+![Test Plan](https://github.com/HORNETJOE/Database/blob/master/table.PNG)
 
 ### Technical Documentation
 
