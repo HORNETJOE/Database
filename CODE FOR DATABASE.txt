@@ -1,0 +1,76 @@
+CREATE TABLE ENEMIES_SKILLS(
+ENEMY_ID INT NOT NULL,
+SKILL_ID INT NOT NULL,
+LEVEL INT NOT NULL,
+DAMAGE_HULL FLOAT NOT NULL
+PRIMARY KEY (ENEMY_ID, SKILL_ID),
+FORIEGN KEY(ENEMY_ID) REFERENCES
+ENEMIES(ID),
+FORIEGN KEY(SKILL_ID) REFERENCES
+SKILLS(ID),
+);
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+insert into heroes
+(level, name, stratus, hp, id, race)
+values
+(10, 'soldier',nul 100, 1, 'human');
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+INSERT INTO ENEMIES VALUES(
+1, 'DRAGON', 100.98, 9.9
+);
+
+DELETE FROM ENEMIES WHERE ID-2;
+LEVEL > 2 AND NAME='DRAGON';
+
+UPDATE HEROES
+SET LEVEL - 4 HP = 100
+WHERE NAME LIKE 'Adam%';
+
+SELECT LEVEL, NAME FROM HEROES
+WHERE NAME LIKE '%A%';
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+CREATE TABLE ENEMIES(
+         ID INT NOT NULL PRIMARY KEY,
+         LEVEL INT NOT NULL,
+         NAME VARCHAR(50) NOT NULL,
+         DAMAGE FLOAT NOT NULL,
+         HP FLOAT NOT NULL
+);
+----------------------------------------------
+INSERT INTO ENEMIES VALUES( 
+    1, 50,'MAGE', 150,'HEALTHY'
+);
+----------------------------------------------
+DELETE FROM HERO WHERE
+    CLASS = 'MAGE';
+----------------------------------------------
+UPDATE HERO
+    SET LEVEL = 4
+    WHERE ID = 1;
+----------------------------------------------
+SELECT * FROM HERO;
+
+
+SELECT LEVEL, CLASS FROM HERO
+WHERE ID = 2;
+
+
+SELECT H.CLASS, H.LEVEL, S.NAME, HS.LEVEL
+FROM HERO H, SKILLS S, HERO_SKILLS HS
+WHERE HS.HERO_ID = H.ID AND HS.SKILL_ID = S.ID
+AND S.NAME LIKE 'Fire%';
+
+SELECT COUNT(*) FROM HERO;
+
+SELECT MAX(H.LEVEL), MIN(H.LEVEL) FROM HERO H;
+
+SELECT SUM(H.LEVEL) FROM HERO H;
+
+SELECT AVG(H.LEVEL) FROM HERO H;
