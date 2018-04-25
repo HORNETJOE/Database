@@ -38,6 +38,10 @@ The code below was used to create the database.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
+## Data dictionary 
+These are dictionaries which will help the viewer understand what type of input the table area will have, for example certain areas will have "text" next to them whereas others will have "float". This is to indecate whether there would be numbers or letters within the field of input. Data dictionaries are important as they can keep the database consistent from the start by giving it a set point as it allows viewers to look onto a clear view of what the database is going to be like and can always be referred back to when stuck.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
 #### Insert
 
 INSERT INTO ENEMIES VALUES( 1, 50,'MAGE', 150,'HEALTHY' );
