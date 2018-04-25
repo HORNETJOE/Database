@@ -77,22 +77,6 @@ UPDATE SPELLS SET DAMAGEHEALING = 4 WHERE NAME = FIREBALL;
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#### Developing the database
-below are images display the database and its diffrent functions displays.
-
-![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/database%20image%20heros.PNG)
-
-#### output
-![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/interface.PNG)
-
-#### input
-![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/input.PNG)
-
-#### query
-![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/query.PNG)
-
-#### Testing
-below is a table which contains diffrent features that were tested and completed during testing. This needs to be done to make sure that the database works when it is completed.
 
 ![Test Plan](https://github.com/HORNETJOE/Database/blob/master/table.PNG)
 
@@ -197,3 +181,20 @@ The database was made in order to cater for a game, for this we made 5 tables, h
 ### Data Software Objects and Resultant Data Structures
 
 For the forms, we have created buttons that allow the viewer to change the data that is stored within the tables, these allow the data to be updated from the forms easily, as well as this there is a delete or remove button that can also be used in order to remove part of the database. The data is structured so that the data can be updated and edited from anywhere other than the reports, this means that the reports are easier to see and collect information from and can be focused on viewing the data rather than editing it.
+
+#### Developing the database
+below are images display the database and its diffrent functions displays.
+
+![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/database%20image%20heros.PNG)
+
+#### output
+![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/interface.PNG)
+
+#### input
+![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/input.PNG)
+
+#### query
+![ERD flowchart](https://github.com/HORNETJOE/Database/blob/master/query.PNG)
+
+#### Testing
+below is a table which contains diffrent features that were tested and completed during testing. This needs to be done to make sure that the database works when it is completed.
