@@ -6,7 +6,7 @@ ERD stands for entity relanshonship diagram and is used as a flowchart to show t
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-User Stories
+## User Stories
 
 As a user I would like to be able to look up my heroes level
 
