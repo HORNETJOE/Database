@@ -182,6 +182,8 @@ The database was made in order to cater for a game, for this we made 5 tables, h
 
 For the forms, we have created buttons that allow the viewer to change the data that is stored within the tables, these allow the data to be updated from the forms easily, as well as this there is a delete or remove button that can also be used in order to remove part of the database. The data is structured so that the data can be updated and edited from anywhere other than the reports, this means that the reports are easier to see and collect information from and can be focused on viewing the data rather than editing it.
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
 #### Developing the database
 below are images display the database and its diffrent functions displays.
 
