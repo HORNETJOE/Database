@@ -6,7 +6,37 @@ ERD stands for entity relanshonship diagram and is used as a flowchart to show t
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
+User Stories
+
+As a user I would like to be able to look up my heroes level
+
+As a user I would like to be able to look up my enemies level
+
+As a user I would like to be able to look up my heroes current health
+
+As a user I would like to be able to look up my enemies current health
+
+As a user I would like to see how much damage my spells do
+
+As a user I would like to see the range of my different spells
+
+As a user I would like to see how much damage the enemy does
+
+As a user I would like to see the name of my enemies
+
+As a user I would like to add new enemies using a form
+
+As a user I would like to delete data entries using a form
+
+As a user I would like to add new heroes using a form
+
+As a user I would like to create a report
+
+As a user I would like to use SQL code to add new tables to the database
+
 The code below was used to create the database.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #### Insert
 
